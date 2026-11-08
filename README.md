@@ -31,22 +31,22 @@ Contribuir a una Barcelona más sostenible, resiliente y adaptada al cambio clim
 - Definir las responsabilidades y tareas de cada miembro del equipo.
 - Completar la planificación mediante un diagrama de Gantt y un tablero Kanban.
 
-## 5. Organización del equipo y roles
+## 5. Organización del equipo y distribución de roles
 
-Los roles se distribuirán entre los miembros del grupo:
+El proyecto será desarrollado por un equipo de cuatro integrantes:
 
-- Coordinación del proyecto: seguimiento general y organización del equipo.
-- Investigación y análisis: búsqueda de información y recopilación de datos.
-- Diseño de soluciones: estudio y desarrollo de propuestas sostenibles.
-- Desarrollo del prototipo: elaboración del mapa, dashboard o herramienta visual.
-- Comunicación y documentación: redacción, presentación y difusión de resultados.
+- Biel: coordinación general del proyecto, seguimiento de tareas y planificación.
+- Arnau: investigación del fenómeno de la isla de calor urbana y recopilación de datos.
+- Clàudia: análisis urbano, identificación de zonas afectadas y estudio de las causas.
+- Elsa: diseño de posibles soluciones y desarrollo del prototipo.
 
-Los roles podrán adaptarse y compartirse según las necesidades del proyecto.
+Todos los integrantes participarán en las decisiones principales, la evaluación de resultados y la elaboración de la presentación final.
 
-## 6. Planificación
+## 6. Planificación y seguimiento
 
-La planificación del proyecto se organizará mediante:
+Para organizar el desarrollo del proyecto se utilizarán tres herramientas:
 
-- Diagrama de Gantt: calendario y duración de las tareas.
-- Tablero de seguimiento: organización de las actividades.
-- Kanban: seguimiento del estado de las tareas (pendiente, en proceso y completada).
+- Diagrama de Gantt: planificación temporal de las actividades y distribución de responsabilidades.
+- Tablero de tareas: organización de las actividades, responsables y fechas previstas.
+- Kanban: seguimiento del estado de las tareas mediante las categorías pendientes, en proceso y completadas.
+
