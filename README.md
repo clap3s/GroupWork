@@ -44,9 +44,10 @@ Todos los integrantes participarán en las decisiones principales, la evaluació
 
 ## 6. Planificación y seguimiento
 
-Para organizar el desarrollo del proyecto se utilizarán tres herramientas:
+Para organizar y controlar el desarrollo del proyecto se utilizarán dos herramientas principales:
 
-- Diagrama de Gantt: planificación temporal de las actividades y distribución de responsabilidades.
-- Tablero de tareas: organización de las actividades, responsables y fechas previstas.
-- Kanban: seguimiento del estado de las tareas mediante las categorías pendientes, en proceso y completadas.
+- **Diagrama de Gantt:** permitirá visualizar las actividades del proyecto, su duración y el orden en que se llevarán a cabo.
+- **Tablero Kanban:** permitirá organizar las tareas, asignar responsables y realizar un seguimiento de su estado mediante tres categorías: pendientes, en proceso y completadas.
+
+Estas herramientas facilitarán la coordinación y el seguimiento del trabajo de todos los integrantes del equipo.
 
